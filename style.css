@@ -81,9 +81,8 @@ p{
     font-size: 15px;
     display: flex;
     flex-direction: column;
-    /**width: var(--form-width);
-    max-width: var(--max-form-width);**/
-    width: 80%;
+    width: var(--form-width);
+    max-width: var(--max-form-width);
 }
 
 .form label{
